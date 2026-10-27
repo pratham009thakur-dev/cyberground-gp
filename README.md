@@ -8,17 +8,17 @@ CyberGround Gran Prix is a fast-paced, arcade-style 2D browser racing game devel
 ---
 
 ## 🛠 Tech Stack
-* **Frontend**: HTML5 Canvas, CSS3, JavaScript (ES6+)
-* **Architecture**: Event-driven animation loop, modular game state logic
-* **Version Control & Hosting**: Git, GitHub, Netlify
+- **Frontend**: HTML5 Canvas, CSS3, JavaScript (ES6+)
+- **Architecture**: Event-driven animation loop, modular game state logic
+- **Version Control & Hosting**: Git, GitHub, Netlify
 
 ---
 
 ## ✨ Core Features
-* **Real-Time 60FPS Game Loop**: Built on `requestAnimationFrame` to deliver smooth, frame-consistent rendering across desktop browsers.
-* **Responsive Multi-Key Controls**: Custom keyboard event listeners supporting simultaneous steering, braking, and acceleration inputs.
-* **Dynamic Collision Detection**: Bounding-box detection checking track limits, oncoming road vehicles, and obstacle boundaries.
-* **On-Screen Heads-Up Display (HUD)**: Real-time UI metrics showing live speed, distance covered, and active run scores.
+- **Real-Time 60FPS Game Loop**: Built on `requestAnimationFrame` to deliver smooth, frame-consistent rendering across desktop browsers.
+- **Responsive Multi-Key Controls**: Custom keyboard event listeners supporting simultaneous steering, braking, and acceleration inputs.
+- **Dynamic Collision Detection**: Bounding-box detection checking track limits, oncoming road vehicles, and obstacle boundaries.
+- **On-Screen Heads-Up Display (HUD)**: Real-time UI metrics showing live speed, distance covered, and active run scores.
 
 ---
 
@@ -32,4 +32,10 @@ CyberGround Gran Prix is a fast-paced, arcade-style 2D browser racing game devel
 ## 🚀 Running Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<pratham009thakur-dev>/cyberground-gp.git
+   git clone [https://github.com/pratham009thakur-dev/cyberground-gp.git](https://github.com/pratham009thakur-dev/cyberground-gp.git)
+   ```
+2. Navigate into the directory:
+   ```bash
+   cd cyberground-gp
+   ```
+3. Open `index.html` directly in any modern web browser.
